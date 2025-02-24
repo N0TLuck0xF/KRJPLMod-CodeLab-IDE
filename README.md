@@ -1,2 +1,0 @@
-# KRJPLMod-CodeLab-IDE
-beta
